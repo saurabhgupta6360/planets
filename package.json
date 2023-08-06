@@ -1,7 +1,7 @@
 {
+  "homepage": "https://saurabhgupta6360.github.io/planets/",
   "name": "planets",
   "version": "0.1.0",
-  "homepage": "https://saurabhgupta6360.github.io/planets/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
