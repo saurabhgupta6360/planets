@@ -1,0 +1,67 @@
+.mercury {
+  aspect-ratio: 1 / 1;
+  background: linear-gradient(
+    45deg,
+    rgb(15, 19, 31) 0%,
+    rgb(255, 191, 171) 100%
+  );
+}
+
+.venus {
+  aspect-ratio: 1 / 1;
+  background: linear-gradient(
+    45deg,
+    rgb(15, 19, 31) 0%,
+    rgb(231, 246, 167) 100%
+  );
+}
+
+.earth {
+  aspect-ratio: 1 / 1;
+  background: linear-gradient(
+    45deg,
+    rgb(15, 19, 31) 0%,
+    rgb(30, 132, 253) 100%
+  );
+}
+
+.mars {
+  aspect-ratio: 1 / 1;
+  background: linear-gradient(45deg, rgb(15, 19, 31) 0%, rgb(253, 83, 30) 100%);
+}
+
+.neptune {
+  aspect-ratio: 1 / 1;
+  background: linear-gradient(
+    45deg,
+    rgb(15, 19, 31) 0%,
+    rgb(44, 216, 254) 100%
+  );
+}
+
+.uranus {
+  aspect-ratio: 1 / 1;
+  background: linear-gradient(
+    45deg,
+    rgb(15, 19, 31) 0%,
+    rgb(203, 255, 243) 100%
+  );
+}
+
+.saturn {
+  aspect-ratio: 1 / 1;
+  background: linear-gradient(
+    45deg,
+    rgb(15, 19, 31) 0%,
+    rgb(245, 216, 109) 100%
+  );
+}
+
+.jupiter {
+  aspect-ratio: 1 / 1;
+  background: linear-gradient(
+    45deg,
+    rgb(15, 19, 31) 0%,
+    rgb(255, 158, 68) 100%
+  );
+}
