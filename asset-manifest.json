@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/planets/static/css/main.9aebf3eb.css",
+    "main.js": "/planets/static/js/main.b72f2f5a.js",
+    "index.html": "/planets/index.html",
+    "main.9aebf3eb.css.map": "/planets/static/css/main.9aebf3eb.css.map",
+    "main.b72f2f5a.js.map": "/planets/static/js/main.b72f2f5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9aebf3eb.css",
+    "static/js/main.b72f2f5a.js"
+  ]
+}
