@@ -1,16 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ![React-App](https://github.com/saurabhgupta6360/planets/assets/137704371/047b2761-692f-410a-b431-887db2c17b3c)
 
-
-
-
-
-
-
-
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
