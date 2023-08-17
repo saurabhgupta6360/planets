@@ -1,6 +1,7 @@
 import React from "react";
 
 const Home = () => {
+  print('home')
   return (
     <>
       <div className="container mx-auto grid lg:grid-cols-2 lg:h-screen xs:h-50v md:grid-cols-2 sm:h-70v ">
