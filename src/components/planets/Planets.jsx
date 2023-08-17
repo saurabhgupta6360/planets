@@ -1,6 +1,6 @@
 import React from "react";
 
-const Planets = () => {
+const Planet = () => {
   return (
     <>
       <div className="container mx-auto grid lg:grid-cols-1 lg:text-6xl lg:text-white font-medium  lg:my-20 md:grid-cols-1 md:text-6xl md:text-white md:my-20 xs:grid-cols-1 xs:text-6xl xs:text-white xs:my-14">
